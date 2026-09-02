@@ -1,6 +1,6 @@
 - 🎮 *( colouring, baking, journaling)*
 - 📼 *(gaming, travel)*
-- 🌱 Currently learning: *(e.g. Power BI, SQL, Python for data viz)*
+- 🌱 Currently learning: *( php, Power BI, SQL, Python for data vizualise )*
 - 💬 Ask me about: data cleaning, dashboards, spreadsheets that don't make people cry
 
 <br/>
